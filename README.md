@@ -1,4 +1,4 @@
-# 💻 C Programs Collection
+# 💻 C Programs Basic Collection
 
 ![Repo Size](https://img.shields.io/github/repo-size/nitin-0-7/c-program?style=for-the-badge)
 ![Language Count](https://img.shields.io/github/languages/count/nitin-0-7/c-program?style=for-the-badge)
